@@ -1,0 +1,5 @@
+Hello all
+Welcome to Git session
+This is the Devops concept
+Git is the repository in devops methodolgy
+Thank you!
